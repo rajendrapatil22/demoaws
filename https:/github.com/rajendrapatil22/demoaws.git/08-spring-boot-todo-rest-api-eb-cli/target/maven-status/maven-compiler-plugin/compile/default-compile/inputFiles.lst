@@ -1,0 +1,4 @@
+/home/rajendrap/Downloads/deploy-spring-boot-aws-eb-master/08-spring-boot-todo-rest-api-eb-cli/src/main/java/com/verinite/demo/Application.java
+/home/rajendrap/Downloads/deploy-spring-boot-aws-eb-master/08-spring-boot-todo-rest-api-eb-cli/src/main/java/com/verinite/repository/ItemRepository.java
+/home/rajendrap/Downloads/deploy-spring-boot-aws-eb-master/08-spring-boot-todo-rest-api-eb-cli/src/main/java/com/verinite/model/Item.java
+/home/rajendrap/Downloads/deploy-spring-boot-aws-eb-master/08-spring-boot-todo-rest-api-eb-cli/src/main/java/com/verinite/controller/ItemController.java
